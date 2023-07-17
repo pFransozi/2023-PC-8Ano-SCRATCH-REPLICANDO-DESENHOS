@@ -1,4 +1,4 @@
-# 2023 Pensamento Computacional Replicando_-_Desenhos - scratch
+# 2023 Pensamento Computacional Replicando_Desenhos - Scratch
 
 ## Descrição
 
