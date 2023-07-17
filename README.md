@@ -6,11 +6,11 @@ Este repositório é utilizado para o curso “scratch-programacao-ciencia-arte�
 
 ## Rúbricas
 
-* estruturação algorítmo:
+* estruturação algoritmo:
   * decomposição do problemas em partes menores;
   * encontrar padrões nas partes menores;
   * abstração e composição da solução;
-  * algorítmo;
+  * algoritmo;
 * clone para reutilização de algorítmos;
 * laço de repetição;
 * comandos para modificação de aspectos da aparência;
